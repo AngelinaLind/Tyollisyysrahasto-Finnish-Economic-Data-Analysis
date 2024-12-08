@@ -102,7 +102,7 @@ DateTable = FILTER(CALENDAR(DATE(2010,1,1), DATE(2028,12,31)), DAY([Date]) = 1)
    ```bash
    git clone https://github.com/yourusername/Economic-Labour-Insights.git
    ```
-2. Open the Power BI file (`.pbix`) to explore the interactive dashboards.
+2. Open the Power BI file (https://github.com/AngelinaLind/Tyollisyysrahasto-Finnish-Economic-Data-Analysis/blob/5a8e00dbdc32982aaf42b559512db934295deac1/Materials/Tyo%CC%88llisyysrahasto_Data_Analysis.pbix) to explore the interactive dashboards.
 3. Review the analysis and findings in the `README.md`.
 
 ---
