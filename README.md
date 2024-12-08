@@ -16,12 +16,12 @@ The goal of this project is to:
 ## **Datasets Used**
 
 1. **Väestö työmarkkina-aseman, sukupuolen ja iän mukaan, kuukausitiedot (135y)**  
-   - Source: [Statistics Finland](https://pxdata.stat.fi/PxWeb/pxweb/fi/StatFin/StatFintyti/statfintytipxt_135y.px/)
+   - Source: [Statistics Finland](https://pxdata.stat.fi/PxWeb/pxweb/fi/Check/)
    - Key Metrics:  
      - Employment Rate, Unemployment Rate, Labor Force, People Outside the Labor Force (monthly, 2010–2024).
 
 2. **Tulot ja tuotanto toimialoittain, neljännesvuosittain (132g)**  
-   - Source: [Statistics Finland](https://pxdata.stat.fi/PxWeb/pxweb/fi/StatFin/StatFinntp/statfinntppxt_132g.px/)
+   - Source: [Statistics Finland](https://pxdata.stat.fi/PxWeb/pxweb/fi/Check/)
    - Key Metrics:  
      - GDP, Gross Value Added (GVA), Employee Costs, Employer Costs (quarterly, 2010–2024).
 
