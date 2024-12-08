@@ -70,7 +70,7 @@ The goal of this project is to:
 DateTable = FILTER(CALENDAR(DATE(2010,1,1), DATE(2028,12,31)), DAY([Date]) = 1)
 ```
 - Ensured "many-to-one" and "one-to-one" relationships were used appropriately.
-Materials/Screenshots/DataModel.png
+![Data Model Screenshot](Materials/Screenshots/DataModel.png)
 
 ### 3. Visualization Creation
 - Used Power BI's visualization tools to design charts and dashboards.
