@@ -75,6 +75,7 @@ DateTable = FILTER(CALENDAR(DATE(2010,1,1), DATE(2028,12,31)), DAY([Date]) = 1)
 ### 3. Visualization Creation
 - Used Power BI's visualization tools to design charts and dashboards.
 - Customized color palettes to align with the visual identity of Työllisyysrahasto.
+  ![Power BI Report](Materials/Screenshots/Report.png)
 
 ### 4. Analysis and Reporting
 - Identified trends and correlations from visualizations.
@@ -91,7 +92,7 @@ DateTable = FILTER(CALENDAR(DATE(2010,1,1), DATE(2028,12,31)), DAY([Date]) = 1)
 ---
 
 ## **Files Included**
-- **Power BI (.pbix)** file with interactive dashboards.
+- **Power BI (.pbix and .pdf)** files with interactive dashboards.
 - **Screenshots** of the visualizations.
 - Source datasets (linked in the README).
 
