@@ -26,7 +26,7 @@ The goal of this project is to:
      - GDP, Gross Value Added (GVA), Employee Costs, Employer Costs (quarterly, 2010–2024).
 
 3. **Taloudellinen katsaus: Syksy 2024 (Economic Review)**  
-   - Source: [Valtioneuvosto](Taloudellinen katsaus_syksy 2024 ennustesarjat-2.xlsx)  
+   - Source: [Valtioneuvosto](./Taloudellinen katsaus_syksy 2024 ennustesarjat-2.xlsx)  
    - Key Metrics:  
      - Economic Forecast for 2023–2028.
 
