@@ -26,7 +26,7 @@ The goal of this project is to:
      - GDP, Gross Value Added (GVA), Employee Costs, Employer Costs (quarterly, 2010–2024).
 
 3. **Taloudellinen katsaus: Syksy 2024 (Economic Review)**  
-   - Source: [Valtioneuvosto](https://github.com/AngelinaLind/Tyollisyysrahasto-Finnish-Economic-Data-Analysis/blob/355e784f151103b8d989ea7a276c7ab8ceb8f30c/Taloudellinen%20katsaus_syksy%202024%20ennustesarjat-2.xlsx))  
+   - Source: [Valtioneuvosto](https://github.com/AngelinaLind/Tyollisyysrahasto-Finnish-Economic-Data-Analysis/blob/279d8aace0b74f88e287137f101154e83bae42c9/Materials/Taloudellinen%20katsaus_syksy%202024%20ennustesarjat-2.xlsx)  
    - Key Metrics:  
      - Economic Forecast for 2023–2028.
 
@@ -70,6 +70,7 @@ The goal of this project is to:
 DateTable = FILTER(CALENDAR(DATE(2010,1,1), DATE(2028,12,31)), DAY([Date]) = 1)
 ```
 - Ensured "many-to-one" and "one-to-one" relationships were used appropriately.
+Materials/Screenshots/DataModel.png
 
 ### 3. Visualization Creation
 - Used Power BI's visualization tools to design charts and dashboards.
